@@ -11,7 +11,7 @@ public class Lab2 {
         String accountNumber;
         double balance;
 
-        System.out.printf ("Enter full name: ");
+        System.out.printf("Enter full name: ");
         fullName = input.nextLine();
 
         System.out.printf("Enter account number: ");
